@@ -1,5 +1,7 @@
 //TODO, create existing classes
 
+//OK, I starting to work s#####
+
 public class Main {
     public static void main(String[] args){
         Adder adder = new Adder();
